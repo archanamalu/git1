@@ -6,5 +6,7 @@ printf("hello ");
   a=10;
   b=10;
   c=a+b;
-  printf("the sum is %d",c)
+  printf("the sum is %d",c);
+  p=a*b;
+    printf("product is %d",p);
 }
